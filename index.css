@@ -40,7 +40,7 @@ h1, h2, h3, h1.navbar-brand *  {
 
 .jumbo {
     padding-top:48px;
-    background: linear-gradient(30deg, var(--green), var(--blue));
+    background: linear-gradient(35deg, #ffff00, #ff00ff);
 }
 
 .jumbo > * {
